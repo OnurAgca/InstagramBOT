@@ -12,4 +12,6 @@
 
 7-)Programı indirdikten sonra bir klasöre çıkartmanız daha sağlıklı çalışmasını sağlayacaktır.
 
-8-)programın kodlarına botMain.py klasöründen ulaşabilirsiniz
+8-)Programın kodlarına botMain.py klasöründen ulaşabilirsiniz.
+
+9-)Program çalışırken açılan tarayıcıda lütfen hiçbir şeye dokunmayınız program otomatik yapılması gerekenleri yapıcaktır.
