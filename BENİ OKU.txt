@@ -11,3 +11,5 @@
 6-)İnstagram hesabınızda ikili kimlik doğrulama aktifse programı kullanırken kapatınız.Program bunu algılayamıyor ve hata veriyor.
 
 7-)Programı indirdikten sonra bir klasöre çıkartmanız daha sağlıklı çalışmasını sağlayacaktır.
+
+8-)programın kodlarına botMain.py klasöründen ulaşabilirsiniz
