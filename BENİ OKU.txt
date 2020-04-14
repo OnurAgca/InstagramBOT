@@ -2,16 +2,14 @@
 
 2-)Programdan net sonuçlar almak için birkaç kez çalıştırmanız önerilir.
 
-3-)Programda hatalar olabilir.Hataları veya sorunları agca_onur instagram adresine mesaj atabilirsiniz.
+3-)Programın çalışması için chrome yüklü olmalıdır.
 
-4-)Programın çalışması için chrome yüklü olmalıdır.
+4-)Program çalışmazsa chrome versiyonunu öğrenip versiyonuna uygun chromewebdrider indirip botMain.exe'nin olduğu klasöre atınız.
 
-5-)Program çalışmazsa chrome versiyonunu öğrenip versiyonuna uygun chromewebdrider indirip botMain.exe'nin olduğu klasöre atınız.
+5-)İnstagram hesabınızda ikili kimlik doğrulama aktifse programı kullanırken kapatınız.Program bunu algılayamıyor ve hata veriyor.
 
-6-)İnstagram hesabınızda ikili kimlik doğrulama aktifse programı kullanırken kapatınız.Program bunu algılayamıyor ve hata veriyor.
+6-)Programı indirdikten sonra bir klasöre çıkartmanız daha sağlıklı çalışmasını sağlayacaktır.
 
-7-)Programı indirdikten sonra bir klasöre çıkartmanız daha sağlıklı çalışmasını sağlayacaktır.
+7-)Programın kodlarına botMain.py klasöründen ulaşabilirsiniz.
 
-8-)Programın kodlarına botMain.py klasöründen ulaşabilirsiniz.
-
-9-)Program çalışırken açılan tarayıcıda lütfen hiçbir şeye dokunmayınız program otomatik yapılması gerekenleri yapıcaktır.
+8-)Program çalışırken açılan tarayıcıda lütfen hiçbir şeye dokunmayınız program otomatik yapılması gerekenleri yapıcaktır.
